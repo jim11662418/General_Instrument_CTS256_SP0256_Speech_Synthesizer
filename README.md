@@ -6,3 +6,5 @@ Single Board Computer featuring a vintage General Instrument CTS256A-AL2 Code-to
 <p align="center">CTS256-SP0256</p><br>
 <p align="center"><img src="/images/Schematic-2.png"/>
 <p align="center">Buffer RAM and Exception EPROM</p><br>
+<p align="center"><img src="/images/CTS256A SBC.png"/>
+<p align="center">CTS256-SP0256 SBC</p><br>
